@@ -9,15 +9,17 @@
 
     ## Creator
     @Irtifaur Rahman (on Slack)
+    @Tanish Mishra
 
     ## Team "Fork a Good Cause"
-    - [Team Member 1](GitHub profile link)
-    - [Team Member 2](GitHub profile link)
-    - [Team Member 3](GitHub profile link)
-    <!-- Add all team members -->
+    - [Tanish Mishra](https://github.com/Tan28-art)
+    - [Irtifaur Rahman](GitHub profile link)
+
 
     ## Project Overview
-    Brief description of your project and its goals.
+    Problem: Heritage Square's unorganized Google Drive hinders efficient document retrieval for marketing, operations, and grants, while manual AI prompting is time-consuming and potentially inaccurate.
+    Goal: Develop an AI agent with access to Heritage Square's Google Drive to assist in document organization, tagging, and retrieval, as well as provide accurate responses to staff queries.
+    Key Features: Implement AI-driven document categorization, suggest reorganization strategies, automate file movement, and integrate with existing AI tools (e.g., ChatGPT or Gemini) for enhanced prompting capabilities.
 
     ## Tech Stack
     - Frontend: 
